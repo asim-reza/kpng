@@ -1,3 +1,6 @@
+# This Branch is for my own Understanding and Notes-
+# Never to be Pushed!!
+
 # Kubernetes Proxy NG
 
 The Kubernetes Proxy NG a new design of kube-proxy aimed at
